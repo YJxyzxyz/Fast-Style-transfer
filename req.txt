@@ -1,0 +1,5 @@
+tensorflow-cpu==1.15.0
+scipy==1.2.1
+protobuf==3.19.0
+PyQt5
+moviepy
